@@ -1,0 +1,41 @@
+/* Q1*/
+p {
+    color: red;
+}
+
+/* Q2 */
+p, div {
+    background-color: lightblue;
+}
+
+/* Q3 */
+#mydiv > p.mainClass {
+    color: green;
+    font-size: 18px;
+}
+
+/* Q4 */
+div p {
+    font-weight: bold;
+}
+
+/* Q5 */
+input[type="text"].myClass {
+    border: 2px solid red;
+}
+
+/* Q6 */
+div ~ span {
+    color: purple;
+}
+
+/* Q7 */
+p.myClass {
+    text-decoration: underline;
+}
+
+/* Q8 */
+#mydiv {
+    border: 1px solid black;
+    padding: 10px;
+}

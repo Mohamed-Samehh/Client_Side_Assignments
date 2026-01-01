@@ -1,0 +1,7 @@
+Question 5 Answers:
+g) i. p is block-level, span is inline. Visually same with display: table-cell.
+
+h) More specific style (span#content > #aboutus) applies.
+
+Question 7 Answer:
+!important overrides specificity, so the first style applies.

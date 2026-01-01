@@ -1,0 +1,2 @@
+EM is relative to the parent element’s font size.
+REM is relative to the root (html) element’s font size.
