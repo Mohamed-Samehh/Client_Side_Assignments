@@ -1,0 +1,35 @@
+div:hover {
+  background: red;
+}
+
+li:nth-child(2) {
+  background: blue;
+}
+
+li:first-child {
+  background: green;
+}
+
+li:last-child {
+  background: yellow;
+}
+
+p:nth-of-type(1) {
+  background: purple;
+}
+
+div div:not(p) {
+  background: orange;
+}
+
+input:checked {
+  background: pink;
+}
+
+input:disabled {
+  background: gray;
+}
+
+input:focus {
+  background: cyan;
+}
